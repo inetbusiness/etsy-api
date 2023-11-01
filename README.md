@@ -1,3 +1,5 @@
+Basic implementation of the Etsy API
+
 ### Install via Composer
 edit **composer.json** file
 ```json
