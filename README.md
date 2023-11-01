@@ -11,7 +11,7 @@ edit **composer.json** file
 and
 ```json
 "require": {
-    "yourvendor/etsyapi": "1.0.0"
+    "inetbusiness/etsy-api": "^1.0.0"
 },
 ```
 ```bash
