@@ -2,6 +2,7 @@
   "name": "inetbusiness/etsy-api",
   "description": "Basic implementation of the Etsy API",
   "type": "library",
+  "license": "GPL-3.0-or-later",
   "minimum-stability": "stable",
   "prefer-stable": true,
   "require": {
